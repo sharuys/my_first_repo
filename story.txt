@@ -1,6 +1,2 @@
 hello world!
-<<<<<<< HEAD
 feature1 added
-=======
-feature1 added
->>>>>>> feature2
